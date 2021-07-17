@@ -1,0 +1,130 @@
+9*{
+    padding: 0;
+    margin: 0;
+}
+/*-------------------------------------
+START  TAG Section FORM HERE
+----------------------------------------*/
+body
+{
+    font-family: 'Roboto', sans-serif;
+    background-color: skyblue;
+}
+
+.header{
+     text-align: center;
+
+     
+
+}
+
+.header h1
+{
+    font-size: 50px;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+     display: inline-block;
+    background-color: lavender;
+    font-weight: 900;
+
+}
+p{
+    margin-left: 10px;
+}
+iframe{
+    width: 800px;
+    margin-left: 15px; 
+     display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+
+.main h1 b  {
+    font-size: 30px;
+    color: rgb(54, 59, 17);
+     
+}
+
+
+.main img{
+     display: block;
+  margin-left: auto;
+  margin-right: auto;
+  /*width: 50%;*/
+}
+
+span{
+    color: GREEN;
+}
+/*-------------------------------------
+END TAG Section 
+----------------------------------------*/
+
+/*-------------------------------------
+START  CLASS Section FORM HERE
+----------------------------------------*/
+.container
+{
+    width: 80%;
+    margin: 0 auto;
+    background-color: papayawhip;
+    position: relative;
+    padding-bottom: 20px;
+    border: 1px solid black;
+
+}
+.clear-div{
+    clear: both;
+}
+
+.html_basic_struture_image  {  
+   
+    width: 800px;
+    padding: 10px;
+    
+}
+.css_basic_struture_image
+{  
+    width: 800px;
+    padding: 10px;
+}
+
+.h1_Title {
+    margin-left: 15px; 
+}
+
+.h1_Title a{
+    text-decoration: none;
+
+}
+/*-------------------------------------
+END CLASS Section 
+----------------------------------------*/
+/*-------------------------------------
+START FOOTER Section FORM HERE
+----------------------------------------*/
+.footer{
+    background-color: black; 
+    text-align: center;
+    margin-top: 10px ;
+    padding: 10px;
+    border-radius: 10px;;
+}
+.footer a {
+color: white;
+margin: 10px;
+text-decoration: none;
+}
+.footer p {
+    color: white;
+    margin-top: 20px;
+    }
+/*-------------------------------------
+FOOTER Section End
+----------------------------------------*/
+
+  
